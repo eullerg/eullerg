@@ -35,6 +35,7 @@
   <a href="https://leetcode.com/eullerla/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 </div>
 
-![giphy (10)](https://github.com/eullerg/eullerg/assets/28613413/1a684eff-6b9c-4449-b2db-5657a5e85cd4)
+![giphy (5)](https://github.com/eullerg/eullerg/assets/28613413/1944c300-6557-4338-a93d-3746b40afdc0)
+
 
 
