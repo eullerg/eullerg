@@ -3,7 +3,7 @@
 ![giphy (7)](https://github.com/eullerg/eullerg/assets/28613413/f2a9509f-1992-4f5e-a762-abcbbb2a5986)
 
 
-- 🌱 Estudando JavaScript e seus frameworks | Node, Ruby e Bancos de dados | I.A e sua dominação mundial
+- 🌱 Estudando JavaScript e seus frameworks | Python, Ruby e Bancos de dados | I.A e sua dominação mundial
 - 💬 Me pergunte sobre: Tudo, sou curioso então sempre há algo novo para se descobrir 
 - 😄 Fatos engraçados: Códigos, músicas e academia vivem lado a lado
 
